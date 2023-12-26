@@ -1,0 +1,62 @@
+﻿<head>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Poor+Story&display=swap">
+
+</head>
+@model WebApplication1.Models.NewsTBL
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<table>
+    <style>
+        .custom-font {
+            font-size: 42px;
+            font-family: 'Black Han Sans', sans-serif;
+        }
+
+        .custom-font2 {
+            font-size: 24px;
+            font-family: ''Poor Story', cursive;
+        }
+
+        .custom-font3 {
+            font-size: 20px;
+            font-family: 'Black Han Sans', sans-serif;
+        }
+
+        a {
+            color: white; /* 원하는 색상으로 수정하세요 */
+        }
+
+            a:hover {
+                color: gray; /* 마우스 오버 시의 색상을 지정하세요 */
+            }
+    </style>
+
+
+    </td>
+    <td><p class="custom-font">@Html.DisplayFor(m => m.NewsTitle)</td></tr></p>
+    <tr>
+        <td><br></td> <!-- 공백만큼 줄바꿈 -->
+    </tr>
+    </td>
+    <td><p style="text-align: right;">@Html.DisplayFor(m => m.NewsPreDate)@Html.DisplayFor(m => m.UserID)</td></tr></td></tr></p>
+    <tr>
+        <td><br><br><br><br></td> <!-- 공백만큼 줄바꿈 -->
+    </tr>
+    </td>
+    <td><p class="custom-font2">@Html.DisplayFor(m => m.NewsCont)</td></tr></p>
+    <tr>
+        <td><br><br><br><br><br><br></td> <!-- 공백만큼 줄바꿈 -->
+    </tr>
+
+    </td>
+    <td>위의 데이터를 정말로 삭제하시려면 눌러주세요 @Html.ActionLink("삭제", "Deletepost", new { id = Model.NewsNum }, new { @class = "btn btn-primary custom-font3" })
+    <td><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td> <!-- 공백만큼 줄바꿈 -->
+    </tr>
+
+    </td>
+    <td><p style="text-align: right;">@Html.DisplayFor(m => m.NewsNum)</td></tr></p>
+    <p><a href="@Url.Action("Index", "NewsCRUD")"><p class="btn btn-primary custom-font3">이전으로</a></p>
+</table>

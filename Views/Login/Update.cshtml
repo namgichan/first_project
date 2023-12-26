@@ -1,0 +1,75 @@
+﻿@model Project.Models.Users;
+@{
+    ViewBag.Title = "Update";
+}
+<h2>회원정보 수정</h2>
+@using (Html.BeginForm("Updatepost", "Users", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+    <dvi class="form-horizontal">
+        <hr />
+        @Html.ValidationSummary(true, "", new{@class = "text=danger"})
+
+        <div class="form-group">
+            <h6>아이디</h6>
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.userId, new {htmlAttributes = new {
+            @class = "form-control" }})
+            </div>
+        </div>
+
+        <dvi class="form-group">
+            <h6>비밀번호</h6>
+            <dvi class="col-md-10">
+                @Html.EditorFor(model => model.pwd, new {htmlAttributes = new {
+            @class = "form-control" }})
+            </dvi>
+        </dvi>
+
+        <dvi class="form-group">
+            <div>이름</div>
+            <dvi class="col-md-10">
+                @Html.EditorFor(model => model.userName, new { htmlAttributes = new {
+            @class = "form-control" }})
+            </dvi>
+        </dvi>
+
+        <dvi class="form-group">
+            <div>휴대폰</div>
+            <dvi class="col-md-10">
+                @Html.EditorFor(model => model.userPhone, new { htmlAttributes = new {
+            @class = "form-control" }})
+            </dvi>
+        </dvi>
+
+        <dvi class="form-group">
+            <div>이메일</div>
+            <dvi class="col-md-10">
+                @Html.EditorFor(model => model.userEmail, new { htmlAttributes = new {
+            @class = "form-control" }})
+            </dvi>
+        </dvi>
+
+        <dvi class="form-group">
+            <div>주소</div>
+            <dvi class="col-md-10">
+                @Html.EditorFor(model => model.userAddr, new { htmlAttributes = new {
+            @class = "form-control" }})
+            </dvi>
+        </dvi>
+
+        <dvi class="form-group">
+            <div>성별</div>
+            <dvi class="col-md-10">
+                @Html.EditorFor(model => model.gender, new { htmlAttributes = new {
+            @class = "form-control" }})
+            </dvi>
+        </dvi>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <button type="submit" id="UpdateCheck" class="btn btn-primary">Save</button>
+            </div>
+        </div>
+    </dvi>
+}

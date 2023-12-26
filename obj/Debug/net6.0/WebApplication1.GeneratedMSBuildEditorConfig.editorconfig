@@ -1,0 +1,129 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebApplication1
+build_property.RootNamespace = WebApplication1
+build_property.ProjectDir = C:\Users\202-19\Documents\카카오톡 받은 파일\WebApplication(회원-게시판 통합)\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\202-19\Documents\카카오톡 받은 파일\WebApplication(회원-게시판 통합)
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/202-19/Documents/카카오톡 받은 파일/WebApplication(회원-게시판 통합)/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202-19/Documents/카카오톡 받은 파일/WebApplication(회원-게시판 통합)/Views/Login/Mypage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cTXlwYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202-19/Documents/카카오톡 받은 파일/WebApplication(회원-게시판 통합)/Views/Login/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202-19/Documents/카카오톡 받은 파일/WebApplication(회원-게시판 통합)/Views/Login/Updatepost.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cVXBkYXRlcG9zdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202-19/Documents/카카오톡 받은 파일/WebApplication(회원-게시판 통합)/Views/NewsCRUD/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3c0NSVURcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202-19/Documents/카카오톡 받은 파일/WebApplication(회원-게시판 통합)/Views/NewsCRUD/Createpost.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3c0NSVURcQ3JlYXRlcG9zdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202-19/Documents/카카오톡 받은 파일/WebApplication(회원-게시판 통합)/Views/NewsCRUD/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3c0NSVURcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202-19/Documents/카카오톡 받은 파일/WebApplication(회원-게시판 통합)/Views/NewsCRUD/Deletepost.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3c0NSVURcRGVsZXRlcG9zdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202-19/Documents/카카오톡 받은 파일/WebApplication(회원-게시판 통합)/Views/NewsCRUD/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3c0NSVURcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202-19/Documents/카카오톡 받은 파일/WebApplication(회원-게시판 통합)/Views/NewsCRUD/Home.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3c0NSVURcSG9tZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202-19/Documents/카카오톡 받은 파일/WebApplication(회원-게시판 통합)/Views/NewsCRUD/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3c0NSVURcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202-19/Documents/카카오톡 받은 파일/WebApplication(회원-게시판 통합)/Views/NewsCRUD/Made.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3c0NSVURcTWFkZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202-19/Documents/카카오톡 받은 파일/WebApplication(회원-게시판 통합)/Views/NewsCRUD/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3c0NSVURcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202-19/Documents/카카오톡 받은 파일/WebApplication(회원-게시판 통합)/Views/NewsCRUD/Updatepost.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3c0NSVURcVXBkYXRlcG9zdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202-19/Documents/카카오톡 받은 파일/WebApplication(회원-게시판 통합)/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202-19/Documents/카카오톡 받은 파일/WebApplication(회원-게시판 통합)/Views/Users/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202-19/Documents/카카오톡 받은 파일/WebApplication(회원-게시판 통합)/Views/Users/Createpost.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcQ3JlYXRlcG9zdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202-19/Documents/카카오톡 받은 파일/WebApplication(회원-게시판 통합)/Views/Users/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202-19/Documents/카카오톡 받은 파일/WebApplication(회원-게시판 통합)/Views/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202-19/Documents/카카오톡 받은 파일/WebApplication(회원-게시판 통합)/Views/Users/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202-19/Documents/카카오톡 받은 파일/WebApplication(회원-게시판 통합)/Views/Users/Loginpost.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcTG9naW5wb3N0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202-19/Documents/카카오톡 받은 파일/WebApplication(회원-게시판 통합)/Views/Users/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202-19/Documents/카카오톡 받은 파일/WebApplication(회원-게시판 통합)/Views/Users/Updatepost.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcVXBkYXRlcG9zdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202-19/Documents/카카오톡 받은 파일/WebApplication(회원-게시판 통합)/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202-19/Documents/카카오톡 받은 파일/WebApplication(회원-게시판 통합)/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/202-19/Documents/카카오톡 받은 파일/WebApplication(회원-게시판 통합)/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-rycvw5t2yi
+
+[C:/Users/202-19/Documents/카카오톡 받은 파일/WebApplication(회원-게시판 통합)/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-bddmc6yalx
+
+[C:/Users/202-19/Documents/카카오톡 받은 파일/WebApplication(회원-게시판 통합)/Views/Shared/_Layout2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-sg0k46mgfv

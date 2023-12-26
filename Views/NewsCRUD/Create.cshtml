@@ -1,0 +1,88 @@
+﻿
+@model WebApplication1.Models.NewsTBL
+@{	
+	ViewBag.Title = "create";
+	Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<head>
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Poor+Story&display=swap">
+</head>
+
+<style>
+		.custom-font {
+			font-size: 46px;
+			font-family: 'Black Han Sans', sans-serif;
+		}
+
+		.custom-font2 {
+			font-size: 16px;
+			font-family: ''Poor Story', cursive;
+		}
+
+		.custom-font3 {
+			font-size: 20px;
+			font-family: 'Black Han Sans', sans-serif;
+			
+		}
+		.custom-font4 {
+			font-size: 20px;
+			font-family: 'Black Han Sans', sans-serif;
+
+		}
+a {
+	color: white; /* 원하는 색상으로 수정하세요 */
+}
+a:hover {
+	color: gray; /* 마우스 오버 시의 색상을 지정하세요 */
+}
+</style>
+<h2><p class="custom-font1">게시물 작성</h2>
+@using (Html.BeginForm("Createpost", "NewsCRUD", FormMethod.Post))
+{
+	@Html.AntiForgeryToken()
+		<table>
+			<tr>
+				<td>
+						<p class="custom-font2">지역</p>
+				</td>
+				<td>
+				@Html.TextBoxFor(m => m.NewsArea)
+				</td>
+			</tr>
+			<tr>
+				<td>
+						<p class="custom-font2">제목</p>
+				</td>
+				<td>
+				@Html.TextAreaFor(model => model.NewsTitle, new { @class = "form-control1", rows = 3, cols = 80})
+				</td>
+			</tr>
+			<tr>
+				<td>
+						<p class="custom-font2">본문</p>
+				</td>
+				<td>
+				@Html.TextAreaFor(model => model.NewsCont, new { @class = "form-control2", rows = 15, cols = 160})
+				</td>
+			</tr>
+			<tr>
+				<td>
+							<p class="custom-font2">작성자</p>
+				</td>
+				<td>
+				@Html.TextBoxFor(m => m.UserID)
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<input type="submit" value="저장" class="btn btn-primary" />
+				</td>
+			</tr>
+		</table>
+}
+<div>
+	<tr>
+		<td><br><br><br><br></td> <!-- 공백만큼 줄바꿈 -->
+	</tr>
+	<p><a href="@Url.Action("Index", "NewsCRUD")"><p class="btn btn-primary custom-font3">이전으로</a></p>
+</div>

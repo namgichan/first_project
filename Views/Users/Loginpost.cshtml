@@ -1,0 +1,18 @@
+﻿@{
+    ViewBag.Title = "Login";
+    //Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@{
+    int? result = (int?)TempData["result"];
+}
+
+@if (result == 1)
+{
+    <p>로그인 되었습니다</p>
+    @Html.ActionLink("확인","Index" ,"Login")
+        //<a class="nav-link text-dark" asp-area="" asp-controller="LoginAfter" asp-action="index">확인</a>
+}
+else
+{
+    <p>로그인에 실패하였습니다</p>
+}

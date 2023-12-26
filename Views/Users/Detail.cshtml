@@ -1,0 +1,14 @@
+﻿@model Project.Models.Users;
+@{
+    ViewBag.Title = "Detail";
+}
+<h2>회원정보</h2>
+<table>
+    <tr><td>아 이 디</td><td>@Html.DisplayFor(m=>m.userId)</td></tr>
+    <tr><td>비밀번호</td><td>@Html.DisplayFor(m=>m.pwd)</td></tr>
+    <tr><td>이&emsp;&emsp;름</td><td>@Html.DisplayFor(m=>m.userName)</td></tr>
+    <tr><td>휴대전화</td><td>@Html.DisplayFor(m=>m.userPhone)</td></tr>
+    <tr><td>이 메 일</td><td>@Html.DisplayFor(m=>m.userEmail)</td></tr>
+    <tr><td>주&emsp;&emsp;소</td><td>@Html.DisplayFor(m=>m.userAddr)</td></tr>
+    <tr><td>성&emsp;&emsp;별</td><td>@Html.DisplayFor(m=>m.gender)</td></tr>
+</table>

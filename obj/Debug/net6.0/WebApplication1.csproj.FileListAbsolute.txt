@@ -1,0 +1,366 @@
+C:\Users\202-19\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\202-19\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.json
+C:\Users\202-19\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.staticwebassets.runtime.json
+C:\Users\202-19\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.exe
+C:\Users\202-19\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.deps.json
+C:\Users\202-19\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+C:\Users\202-19\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.dll
+C:\Users\202-19\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.pdb
+C:\Users\202-19\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\202-19\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\202-19\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+C:\Users\202-19\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\202-19\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\202-19\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\202-19\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\202-19\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\202-19\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication1.props
+C:\Users\202-19\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\Users\202-19\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\Users\202-19\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\202-19\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\202-19\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\202-19\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\202-19\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\202-19\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\scopedcss\projectbundle\WebApplication1.bundle.scp.css
+C:\Users\202-19\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.dll
+C:\Users\202-19\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\refint\WebApplication1.dll
+C:\Users\202-19\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
+C:\Users\202-19\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
+C:\Users\202-19\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
+C:\Users\202-19\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\202-19\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\202-19\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\202-19\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\202-19\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\202-19\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\202-19\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\202-19\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\202-19\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\202-19\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\202-19\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\202-19\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\202-19\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\202-19\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\202-19\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\202-19\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\202-19\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\202-19\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\202-19\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\202-19\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\202-19\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\202-19\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\202-19\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\202-19\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\202-19\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\202-19\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\202-19\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\202-19\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\202-19\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\202-19\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CopyComplete
+C:\Users\day52\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\day52\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.json
+C:\Users\day52\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.staticwebassets.runtime.json
+C:\Users\day52\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.exe
+C:\Users\day52\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.deps.json
+C:\Users\day52\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+C:\Users\day52\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.dll
+C:\Users\day52\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.pdb
+C:\Users\day52\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\day52\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\day52\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\day52\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\day52\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\day52\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\day52\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\day52\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\day52\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\day52\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\day52\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\day52\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\day52\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\day52\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\day52\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\day52\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\day52\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\day52\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\day52\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\day52\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\day52\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\day52\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\day52\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\day52\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\day52\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\day52\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\day52\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\day52\source\repos\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\day52\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\day52\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\day52\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\day52\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+C:\Users\day52\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\day52\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\day52\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\day52\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\day52\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\day52\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication1.props
+C:\Users\day52\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\Users\day52\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\Users\day52\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\day52\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\day52\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\day52\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\day52\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\day52\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\scopedcss\projectbundle\WebApplication1.bundle.scp.css
+C:\Users\day52\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CopyComplete
+C:\Users\day52\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.dll
+C:\Users\day52\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\refint\WebApplication1.dll
+C:\Users\day52\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
+C:\Users\day52\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
+C:\Users\day52\source\repos\WebApplication1\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
+C:\Users\day52\source\repos\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\day52\source\repos\WebApplication1\bin\Debug\net6.0\appsettings.json
+C:\Users\day52\source\repos\WebApplication1\bin\Debug\net6.0\WebApplication1.staticwebassets.runtime.json
+C:\Users\day52\source\repos\WebApplication1\bin\Debug\net6.0\WebApplication1.exe
+C:\Users\day52\source\repos\WebApplication1\bin\Debug\net6.0\WebApplication1.deps.json
+C:\Users\day52\source\repos\WebApplication1\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+C:\Users\day52\source\repos\WebApplication1\bin\Debug\net6.0\WebApplication1.dll
+C:\Users\day52\source\repos\WebApplication1\bin\Debug\net6.0\WebApplication1.pdb
+C:\Users\day52\source\repos\WebApplication1\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\day52\source\repos\WebApplication1\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\day52\source\repos\WebApplication1\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\day52\source\repos\WebApplication1\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\day52\source\repos\WebApplication1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\day52\source\repos\WebApplication1\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\day52\source\repos\WebApplication1\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\day52\source\repos\WebApplication1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\day52\source\repos\WebApplication1\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\day52\source\repos\WebApplication1\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\day52\source\repos\WebApplication1\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\day52\source\repos\WebApplication1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\day52\source\repos\WebApplication1\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\day52\source\repos\WebApplication1\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\day52\source\repos\WebApplication1\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\day52\source\repos\WebApplication1\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\day52\source\repos\WebApplication1\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\day52\source\repos\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\day52\source\repos\WebApplication1\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\day52\source\repos\WebApplication1\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\day52\source\repos\WebApplication1\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\day52\source\repos\WebApplication1\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\day52\source\repos\WebApplication1\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\day52\source\repos\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\day52\source\repos\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\day52\source\repos\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\day52\source\repos\WebApplication1\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\day52\source\repos\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\day52\source\repos\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\day52\source\repos\WebApplication1\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\day52\source\repos\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\day52\source\repos\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+C:\Users\day52\source\repos\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\day52\source\repos\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\day52\source\repos\WebApplication1\obj\Debug\net6.0\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\day52\source\repos\WebApplication1\obj\Debug\net6.0\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\day52\source\repos\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\day52\source\repos\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication1.props
+C:\Users\day52\source\repos\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\Users\day52\source\repos\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\Users\day52\source\repos\WebApplication1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\day52\source\repos\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\day52\source\repos\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\day52\source\repos\WebApplication1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\day52\source\repos\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\day52\source\repos\WebApplication1\obj\Debug\net6.0\scopedcss\projectbundle\WebApplication1.bundle.scp.css
+C:\Users\day52\source\repos\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CopyComplete
+C:\Users\day52\source\repos\WebApplication1\obj\Debug\net6.0\WebApplication1.dll
+C:\Users\day52\source\repos\WebApplication1\obj\Debug\net6.0\refint\WebApplication1.dll
+C:\Users\day52\source\repos\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
+C:\Users\day52\source\repos\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
+C:\Users\day52\source\repos\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
+C:\Users\202-1354\Desktop\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\202-1354\Desktop\WebApplication1\bin\Debug\net6.0\appsettings.json
+C:\Users\202-1354\Desktop\WebApplication1\bin\Debug\net6.0\WebApplication1.staticwebassets.runtime.json
+C:\Users\202-1354\Desktop\WebApplication1\bin\Debug\net6.0\WebApplication1.exe
+C:\Users\202-1354\Desktop\WebApplication1\bin\Debug\net6.0\WebApplication1.deps.json
+C:\Users\202-1354\Desktop\WebApplication1\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+C:\Users\202-1354\Desktop\WebApplication1\bin\Debug\net6.0\WebApplication1.dll
+C:\Users\202-1354\Desktop\WebApplication1\bin\Debug\net6.0\WebApplication1.pdb
+C:\Users\202-1354\Desktop\WebApplication1\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\202-1354\Desktop\WebApplication1\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\202-1354\Desktop\WebApplication1\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\202-1354\Desktop\WebApplication1\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\202-1354\Desktop\WebApplication1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\202-1354\Desktop\WebApplication1\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\202-1354\Desktop\WebApplication1\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\202-1354\Desktop\WebApplication1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\202-1354\Desktop\WebApplication1\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\202-1354\Desktop\WebApplication1\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\202-1354\Desktop\WebApplication1\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\202-1354\Desktop\WebApplication1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\202-1354\Desktop\WebApplication1\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\202-1354\Desktop\WebApplication1\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\202-1354\Desktop\WebApplication1\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\202-1354\Desktop\WebApplication1\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\202-1354\Desktop\WebApplication1\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\202-1354\Desktop\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\202-1354\Desktop\WebApplication1\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\202-1354\Desktop\WebApplication1\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\202-1354\Desktop\WebApplication1\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\202-1354\Desktop\WebApplication1\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\202-1354\Desktop\WebApplication1\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\202-1354\Desktop\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\202-1354\Desktop\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\202-1354\Desktop\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\202-1354\Desktop\WebApplication1\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\202-1354\Desktop\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\202-1354\Desktop\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\202-1354\Desktop\WebApplication1\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\202-1354\Desktop\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\202-1354\Desktop\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+C:\Users\202-1354\Desktop\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\202-1354\Desktop\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\202-1354\Desktop\WebApplication1\obj\Debug\net6.0\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\202-1354\Desktop\WebApplication1\obj\Debug\net6.0\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\202-1354\Desktop\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\202-1354\Desktop\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication1.props
+C:\Users\202-1354\Desktop\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\Users\202-1354\Desktop\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\Users\202-1354\Desktop\WebApplication1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\202-1354\Desktop\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\202-1354\Desktop\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\202-1354\Desktop\WebApplication1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\202-1354\Desktop\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\202-1354\Desktop\WebApplication1\obj\Debug\net6.0\scopedcss\projectbundle\WebApplication1.bundle.scp.css
+C:\Users\202-1354\Desktop\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CopyComplete
+C:\Users\202-1354\Desktop\WebApplication1\obj\Debug\net6.0\WebApplication1.dll
+C:\Users\202-1354\Desktop\WebApplication1\obj\Debug\net6.0\refint\WebApplication1.dll
+C:\Users\202-1354\Desktop\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
+C:\Users\202-1354\Desktop\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
+C:\Users\202-1354\Desktop\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
+C:\Users\202-1354\Desktop\WebApplication1\obj\Debug\net6.0\scopedcss\Views\Login\index.cshtml.rz.scp.css
+C:\Users\202-1354\Desktop\WebApplication1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout2.cshtml.rz.scp.css
+C:\Users\day52\source\repos\WebApplication(회원-게시판 통합)\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\day52\source\repos\WebApplication(회원-게시판 통합)\bin\Debug\net6.0\appsettings.json
+C:\Users\day52\source\repos\WebApplication(회원-게시판 통합)\bin\Debug\net6.0\WebApplication1.staticwebassets.runtime.json
+C:\Users\day52\source\repos\WebApplication(회원-게시판 통합)\bin\Debug\net6.0\WebApplication1.exe
+C:\Users\day52\source\repos\WebApplication(회원-게시판 통합)\bin\Debug\net6.0\WebApplication1.deps.json
+C:\Users\day52\source\repos\WebApplication(회원-게시판 통합)\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+C:\Users\day52\source\repos\WebApplication(회원-게시판 통합)\bin\Debug\net6.0\WebApplication1.dll
+C:\Users\day52\source\repos\WebApplication(회원-게시판 통합)\bin\Debug\net6.0\WebApplication1.pdb
+C:\Users\day52\source\repos\WebApplication(회원-게시판 통합)\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\day52\source\repos\WebApplication(회원-게시판 통합)\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\day52\source\repos\WebApplication(회원-게시판 통합)\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\day52\source\repos\WebApplication(회원-게시판 통합)\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\day52\source\repos\WebApplication(회원-게시판 통합)\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\day52\source\repos\WebApplication(회원-게시판 통합)\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\day52\source\repos\WebApplication(회원-게시판 통합)\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\day52\source\repos\WebApplication(회원-게시판 통합)\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\day52\source\repos\WebApplication(회원-게시판 통합)\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\day52\source\repos\WebApplication(회원-게시판 통합)\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\day52\source\repos\WebApplication(회원-게시판 통합)\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\day52\source\repos\WebApplication(회원-게시판 통합)\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\day52\source\repos\WebApplication(회원-게시판 통합)\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\day52\source\repos\WebApplication(회원-게시판 통합)\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\day52\source\repos\WebApplication(회원-게시판 통합)\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\day52\source\repos\WebApplication(회원-게시판 통합)\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\day52\source\repos\WebApplication(회원-게시판 통합)\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\day52\source\repos\WebApplication(회원-게시판 통합)\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\day52\source\repos\WebApplication(회원-게시판 통합)\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\day52\source\repos\WebApplication(회원-게시판 통합)\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\day52\source\repos\WebApplication(회원-게시판 통합)\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\day52\source\repos\WebApplication(회원-게시판 통합)\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\day52\source\repos\WebApplication(회원-게시판 통합)\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\day52\source\repos\WebApplication(회원-게시판 통합)\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\day52\source\repos\WebApplication(회원-게시판 통합)\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\day52\source\repos\WebApplication(회원-게시판 통합)\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\day52\source\repos\WebApplication(회원-게시판 통합)\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\day52\source\repos\WebApplication(회원-게시판 통합)\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\day52\source\repos\WebApplication(회원-게시판 통합)\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\day52\source\repos\WebApplication(회원-게시판 통합)\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\day52\source\repos\WebApplication(회원-게시판 통합)\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\day52\source\repos\WebApplication(회원-게시판 통합)\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+C:\Users\day52\source\repos\WebApplication(회원-게시판 통합)\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\day52\source\repos\WebApplication(회원-게시판 통합)\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\day52\source\repos\WebApplication(회원-게시판 통합)\obj\Debug\net6.0\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\day52\source\repos\WebApplication(회원-게시판 통합)\obj\Debug\net6.0\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\day52\source\repos\WebApplication(회원-게시판 통합)\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\day52\source\repos\WebApplication(회원-게시판 통합)\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication1.props
+C:\Users\day52\source\repos\WebApplication(회원-게시판 통합)\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\Users\day52\source\repos\WebApplication(회원-게시판 통합)\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\Users\day52\source\repos\WebApplication(회원-게시판 통합)\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\day52\source\repos\WebApplication(회원-게시판 통합)\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\day52\source\repos\WebApplication(회원-게시판 통합)\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\day52\source\repos\WebApplication(회원-게시판 통합)\obj\Debug\net6.0\scopedcss\Views\Login\index.cshtml.rz.scp.css
+C:\Users\day52\source\repos\WebApplication(회원-게시판 통합)\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\day52\source\repos\WebApplication(회원-게시판 통합)\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout2.cshtml.rz.scp.css
+C:\Users\day52\source\repos\WebApplication(회원-게시판 통합)\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\day52\source\repos\WebApplication(회원-게시판 통합)\obj\Debug\net6.0\scopedcss\projectbundle\WebApplication1.bundle.scp.css
+C:\Users\day52\source\repos\WebApplication(회원-게시판 통합)\obj\Debug\net6.0\WebApplication1.csproj.CopyComplete
+C:\Users\day52\source\repos\WebApplication(회원-게시판 통합)\obj\Debug\net6.0\WebApplication1.dll
+C:\Users\day52\source\repos\WebApplication(회원-게시판 통합)\obj\Debug\net6.0\refint\WebApplication1.dll
+C:\Users\day52\source\repos\WebApplication(회원-게시판 통합)\obj\Debug\net6.0\WebApplication1.pdb
+C:\Users\day52\source\repos\WebApplication(회원-게시판 통합)\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
+C:\Users\day52\source\repos\WebApplication(회원-게시판 통합)\obj\Debug\net6.0\ref\WebApplication1.dll
+C:\Users\202-19\Documents\카카오톡 받은 파일\WebApplication(회원-게시판 통합)\obj\Debug\net6.0\WebApplication1.dll
+C:\Users\202-19\Documents\카카오톡 받은 파일\WebApplication(회원-게시판 통합)\obj\Debug\net6.0\refint\WebApplication1.dll
+C:\Users\202-19\Documents\카카오톡 받은 파일\WebApplication(회원-게시판 통합)\obj\Debug\net6.0\WebApplication1.pdb
+C:\Users\202-19\Documents\카카오톡 받은 파일\WebApplication(회원-게시판 통합)\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\202-19\Documents\카카오톡 받은 파일\WebApplication(회원-게시판 통합)\bin\Debug\net6.0\appsettings.json
+C:\Users\202-19\Documents\카카오톡 받은 파일\WebApplication(회원-게시판 통합)\bin\Debug\net6.0\WebApplication1.staticwebassets.runtime.json
+C:\Users\202-19\Documents\카카오톡 받은 파일\WebApplication(회원-게시판 통합)\bin\Debug\net6.0\WebApplication1.exe
+C:\Users\202-19\Documents\카카오톡 받은 파일\WebApplication(회원-게시판 통합)\bin\Debug\net6.0\WebApplication1.deps.json
+C:\Users\202-19\Documents\카카오톡 받은 파일\WebApplication(회원-게시판 통합)\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+C:\Users\202-19\Documents\카카오톡 받은 파일\WebApplication(회원-게시판 통합)\bin\Debug\net6.0\WebApplication1.dll
+C:\Users\202-19\Documents\카카오톡 받은 파일\WebApplication(회원-게시판 통합)\bin\Debug\net6.0\WebApplication1.pdb
+C:\Users\202-19\Documents\카카오톡 받은 파일\WebApplication(회원-게시판 통합)\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\202-19\Documents\카카오톡 받은 파일\WebApplication(회원-게시판 통합)\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\202-19\Documents\카카오톡 받은 파일\WebApplication(회원-게시판 통합)\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\202-19\Documents\카카오톡 받은 파일\WebApplication(회원-게시판 통합)\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\202-19\Documents\카카오톡 받은 파일\WebApplication(회원-게시판 통합)\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\202-19\Documents\카카오톡 받은 파일\WebApplication(회원-게시판 통합)\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\202-19\Documents\카카오톡 받은 파일\WebApplication(회원-게시판 통합)\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\202-19\Documents\카카오톡 받은 파일\WebApplication(회원-게시판 통합)\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\202-19\Documents\카카오톡 받은 파일\WebApplication(회원-게시판 통합)\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\202-19\Documents\카카오톡 받은 파일\WebApplication(회원-게시판 통합)\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\202-19\Documents\카카오톡 받은 파일\WebApplication(회원-게시판 통합)\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\202-19\Documents\카카오톡 받은 파일\WebApplication(회원-게시판 통합)\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\202-19\Documents\카카오톡 받은 파일\WebApplication(회원-게시판 통합)\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\202-19\Documents\카카오톡 받은 파일\WebApplication(회원-게시판 통합)\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\202-19\Documents\카카오톡 받은 파일\WebApplication(회원-게시판 통합)\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\202-19\Documents\카카오톡 받은 파일\WebApplication(회원-게시판 통합)\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\202-19\Documents\카카오톡 받은 파일\WebApplication(회원-게시판 통합)\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\202-19\Documents\카카오톡 받은 파일\WebApplication(회원-게시판 통합)\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\202-19\Documents\카카오톡 받은 파일\WebApplication(회원-게시판 통합)\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\202-19\Documents\카카오톡 받은 파일\WebApplication(회원-게시판 통합)\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\202-19\Documents\카카오톡 받은 파일\WebApplication(회원-게시판 통합)\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\202-19\Documents\카카오톡 받은 파일\WebApplication(회원-게시판 통합)\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\202-19\Documents\카카오톡 받은 파일\WebApplication(회원-게시판 통합)\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\202-19\Documents\카카오톡 받은 파일\WebApplication(회원-게시판 통합)\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\202-19\Documents\카카오톡 받은 파일\WebApplication(회원-게시판 통합)\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\202-19\Documents\카카오톡 받은 파일\WebApplication(회원-게시판 통합)\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\202-19\Documents\카카오톡 받은 파일\WebApplication(회원-게시판 통합)\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\202-19\Documents\카카오톡 받은 파일\WebApplication(회원-게시판 통합)\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\202-19\Documents\카카오톡 받은 파일\WebApplication(회원-게시판 통합)\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\202-19\Documents\카카오톡 받은 파일\WebApplication(회원-게시판 통합)\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\202-19\Documents\카카오톡 받은 파일\WebApplication(회원-게시판 통합)\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\202-19\Documents\카카오톡 받은 파일\WebApplication(회원-게시판 통합)\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+C:\Users\202-19\Documents\카카오톡 받은 파일\WebApplication(회원-게시판 통합)\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\202-19\Documents\카카오톡 받은 파일\WebApplication(회원-게시판 통합)\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\202-19\Documents\카카오톡 받은 파일\WebApplication(회원-게시판 통합)\obj\Debug\net6.0\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\202-19\Documents\카카오톡 받은 파일\WebApplication(회원-게시판 통합)\obj\Debug\net6.0\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\202-19\Documents\카카오톡 받은 파일\WebApplication(회원-게시판 통합)\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\202-19\Documents\카카오톡 받은 파일\WebApplication(회원-게시판 통합)\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication1.props
+C:\Users\202-19\Documents\카카오톡 받은 파일\WebApplication(회원-게시판 통합)\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\Users\202-19\Documents\카카오톡 받은 파일\WebApplication(회원-게시판 통합)\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\Users\202-19\Documents\카카오톡 받은 파일\WebApplication(회원-게시판 통합)\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\202-19\Documents\카카오톡 받은 파일\WebApplication(회원-게시판 통합)\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\202-19\Documents\카카오톡 받은 파일\WebApplication(회원-게시판 통합)\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\202-19\Documents\카카오톡 받은 파일\WebApplication(회원-게시판 통합)\obj\Debug\net6.0\scopedcss\Views\Login\index.cshtml.rz.scp.css
+C:\Users\202-19\Documents\카카오톡 받은 파일\WebApplication(회원-게시판 통합)\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\202-19\Documents\카카오톡 받은 파일\WebApplication(회원-게시판 통합)\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout2.cshtml.rz.scp.css
+C:\Users\202-19\Documents\카카오톡 받은 파일\WebApplication(회원-게시판 통합)\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\202-19\Documents\카카오톡 받은 파일\WebApplication(회원-게시판 통합)\obj\Debug\net6.0\scopedcss\projectbundle\WebApplication1.bundle.scp.css
+C:\Users\202-19\Documents\카카오톡 받은 파일\WebApplication(회원-게시판 통합)\obj\Debug\net6.0\WebApplication1.csproj.CopyComplete
+C:\Users\202-19\Documents\카카오톡 받은 파일\WebApplication(회원-게시판 통합)\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
+C:\Users\202-19\Documents\카카오톡 받은 파일\WebApplication(회원-게시판 통합)\obj\Debug\net6.0\ref\WebApplication1.dll

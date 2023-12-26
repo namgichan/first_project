@@ -1,0 +1,114 @@
+﻿@model IEnumerable<WebApplication1.Models.NewsTBL>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<head>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Poor+Story&display=swap">
+</head>
+
+<style>
+        .custom-font {
+            font-size: 42px;
+            font-family: 'Black Han Sans', sans-serif;
+        }
+
+       .custom-font2 {
+            font-size: 18px;
+            font-family: ''Poor Story', cursive;
+        }
+
+        .custom-font3 {
+            font-size: 20px;
+            font-family: 'Black Han Sans', sans-serif;
+
+        }
+        .custom-font4 {
+            font-size: 18px;
+            font-family: 'Poor Story', cursive;
+
+        }
+</style>
+<h2><p class="custom-font">범죄자 게시판</h2>
+<p>
+    @Html.ActionLink("게시물 작성","Create","NewsCRUD")
+</p>
+
+<div class="row">
+    <div class="col-md-6">
+        <form asp-action="Search" method="get">
+            <div class="input-group mb-3">
+                <select class="form-control" name="areaQuery">
+                    <option value="">-- 모든 지역 --</option>
+                    <option value="서울">서울</option>
+                    <option value="경기도">경기도</option>
+                    <option value="강원도">강원도</option>
+                    <option value="충청도">충청도</option>
+                    <option value="전라도">전라도</option>
+                    <option value="경상도">경상도</option>
+                    <option value="제주도">제주도</option>
+                    <!-- 필요한 다른 지역 옵션을 추가하세요 -->
+                </select>
+                <input type="text" class="form-control" placeholder="제목 검색" name="titleQuery">
+                <div class="input-group-append">
+                    <button class="btn btn-primary" type="submit">검색</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+<script>
+    // 페이지가 로드될 때 선택한 지역 값을 가져와서 설정합니다.
+    $(document).ready(function () {
+        var selectedArea = sessionStorage.getItem('selectedArea');
+        if (selectedArea) {
+            $("#areaQuery").val(selectedArea);
+        }
+    });
+
+    // 드롭다운 목록에서 지역을 선택할 때 sessionStorage에 저장합니다.
+    $("#areaQuery").change(function () {
+        var selectedArea = $(this).val();
+        sessionStorage.setItem('selectedArea', selectedArea);
+    });
+</script>
+
+
+@if (!string.IsNullOrEmpty(ViewBag.SearchQuery))
+{
+    <h3>검색 결과: @ViewBag.SearchQuery</h3>
+}
+
+<table class=" table">
+    <tr>
+        <th><p class="custom-font2">번호</th>
+        <th><p class="custom-font2">지역</th>
+        <th><p class="custom-font2">제목</th>
+        <th><p class="custom-font2">작성일</th>
+        <th><p class="custom-font2">조회수</th>
+        <th><p class="custom-font2"> 수정 | 삭제</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+                <td><p class="custom-font2">@Html.DisplayFor(model => item.NewsNum)</td>
+                <td><p class="custom-font2">@Html.DisplayFor(model => item.NewsArea)</td>
+            <td>
+                    <p class="custom-font2">@Html.ActionLink(item.NewsTitle, "Details", new { id = item.NewsNum, newsCont = item.NewsCont })
+            </td>
+                <td><p class="custom-font2">@Html.DisplayFor(model => item.NewsPreDate)</td>
+                <td><p class="custom-font2">@Html.DisplayFor(model => item.Hits)</td>
+            <td>
+                    @Html.ActionLink("수정", "Update", new { id = item.NewsNum }) |
+
+                    @Html.ActionLink("삭제", "Delete", new { id = item.NewsNum })
+
+            </td>
+        </tr>
+
+    }
+</table>
+
+

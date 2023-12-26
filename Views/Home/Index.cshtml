@@ -1,0 +1,74 @@
+﻿@{
+    //csharp 언어를 이용해 정의
+    ViewData["Title"] = "Area Page";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>이미지 링크</title>
+    <style>
+        /* 이미지의 위치를 직접 지정합니다. */
+        .image {
+            position: absolute;
+        }
+
+            /* 각 이미지에 클릭 가능한 영역을 부여합니다. */
+            .image a {
+                display: block;
+                width: 3px; /* 이미지의 너비 */
+                height: 3px; /* 이미지의 높이 */
+            }
+    </style>
+</head>
+<body>
+    <!-- 강원도/네이버 -->
+    <div class="image" style="top: 206px; left: 892px;">
+        <a href="http://localhost:5286/NewsCRUD/Search?titleQuery=&areaQuery=%EA%B0%95%EC%9B%90%EB%8F%84">
+            <img src="~/images/Gangwon.png" alt="Sample Photo" />
+        </a>
+    </div>
+
+    <!-- 경기도/구글 -->
+    <div class="image" style="top: 265px; left: 623px;">
+        <a href="http://localhost:5286/NewsCRUD/Search?titleQuery=&areaQuery=%EA%B2%BD%EA%B8%B0%EB%8F%84">
+            <img src="~/images/Gyeonggi.png" alt="Sample Photo" />
+        </a>
+    </div>
+    <!-- 서울/다음 -->
+    <div class="image" style="top: 341px; left: 872px;">
+        <a href="http://localhost:5286/NewsCRUD/Search?titleQuery=&areaQuery=%EC%84%9C%EC%9A%B8">
+            <img src="~/images/Seoul.png" alt="Sample Photo" />
+        </a>
+    </div>
+    <!-- 충청도/야후 -->
+    <div class="image" style="top: 410px; left: 796px;">
+        <a href="http://localhost:5286/NewsCRUD/Search?titleQuery=&areaQuery=%EC%B6%A9%EC%B2%AD%EB%8F%84">
+            <img src="~/images/Chung.png" alt="Sample Photo" />
+        </a>
+    </div>
+    <!-- 경상도/빙 -->
+    <div class="image" style="top: 427px; left: 966px;">
+        <a href="http://localhost:5286/NewsCRUD/Search?titleQuery=&areaQuery=%EA%B2%BD%EC%83%81%EB%8F%84">
+            <img src="~/images/Gyeonsang.png" alt="Sample Photo" />
+        </a>
+    </div>
+    <!-- 전라도/유튜브 -->
+    <div class="image" style="top: 562px; left: 678px;">
+        <a href="http://localhost:5286/NewsCRUD/Search?titleQuery=&areaQuery=%EC%A0%84%EB%9D%BC%EB%8F%84">
+            <img src="~/images/Jeolla.png" alt="Sample Photo" />
+        </a>
+    </div>
+    <!-- 제주도/네이트 -->
+    <div class="image" style="top: 900px; left: 810px;">
+        <a href="http://localhost:5286/NewsCRUD/Search?titleQuery=&areaQuery=%EC%A0%9C%EC%A3%BC%EB%8F%84">
+            <img src="~/images/jeju.png" alt="Sample Photo" />
+        </a>
+    </div>
+
+    <!-- 추가 이미지를 원하는 만큼 반복합니다. -->
+</body>
+</html>
+

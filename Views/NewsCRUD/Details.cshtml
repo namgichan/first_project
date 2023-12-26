@@ -1,0 +1,96 @@
+﻿@model WebApplication1.Models.NewsTBL
+<head>
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Poor+Story&display=swap">
+
+</head>
+@{
+	ViewBag.Title = "Details";
+	Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2></h2>
+<table>
+<style>
+		.custom-font {
+			font-size: 42px;
+			font-family: 'Black Han Sans', sans-serif;
+		}
+
+		.custom-font2 {
+			font-size: 24px;
+			font-family: ''Poor Story', cursive;
+		}
+
+		.custom-font3 {
+			font-size: 20px;
+			font-family: 'Black Han Sans', sans-serif;
+		}
+a {
+	color: white; /* 원하는 색상으로 수정하세요 */
+}
+a:hover {
+	color: gray; /* 마우스 오버 시의 색상을 지정하세요 */
+}
+	</style>
+	</style>
+
+
+	</td>
+	<td><p class="custom-font">@Html.DisplayFor(m => m.NewsTitle)</td></tr></p>
+	<tr>
+		<td><br></td> <!-- 공백만큼 줄바꿈 -->
+	</tr>
+	</td>
+	<td><p style="text-align: right;">@Html.DisplayFor(m => m.NewsPreDate)@Html.DisplayFor(m => m.UserID)</td></tr></td></tr></p>
+	<tr>
+		<td><br><br><br><br></td> <!-- 공백만큼 줄바꿈 -->
+	</tr>
+	</td>
+	<td><p class="custom-font2">@Html.DisplayFor(m => m.NewsCont)</td></tr></p>
+	<tr>
+		<td><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td> <!-- 공백만큼 줄바꿈 -->
+	</tr>
+
+	</td>
+	<td><p style="text-align: right;">@Html.DisplayFor(m => m.NewsNum)</td></tr></p>
+	<p><a href="@Url.Action("Index", "NewsCRUD")"><p class="btn btn-primary custom-font3">이전으로</a></p>
+</table>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>Document</title>
+
+	<link rel="stylesheet" href="/css/practice.css" />
+
+</head>
+
+<body>
+	<div>
+		<ul class="comment">  
+			<li class="comment-form">
+
+					<form id="commentFrm" method="post"> 
+					<h4>댓글쓰기 <span></span></h4>
+					<span class="ps_box">
+						<input type="text" placeholder="댓글 내용을 입력해주세요." class="int" name="content" />
+					</span>
+					<input type="submit" class="btn" value="등록" />
+					</form>
+
+			</li>
+			<li id="comment-list"> </li>
+
+		</ul>
+	</div>
+	<script src="/js/comment.js"></script>
+
+</body>
+</html> 
+
+
+
+

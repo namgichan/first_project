@@ -1,0 +1,47 @@
+﻿<head>
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Poor+Story&display=swap">
+
+</head>
+
+<style>
+		.custom-font {
+			font-size: 42px;
+			font-family: 'Black Han Sans', sans-serif;
+		}
+
+		.custom-font2 {
+			font-size: 24px;
+			font-family: ''Poor Story', cursive;
+		}
+
+		.custom-font3 {
+			font-size: 20px;
+			font-family: 'Black Han Sans', sans-serif;
+		}
+a {
+	color: white; /* 원하는 색상으로 수정하세요 */
+}
+a:hover {
+	color: gray; /* 마우스 오버 시의 색상을 지정하세요 */
+}
+	</style>
+@{
+    ViewBag.Title = "Update";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@{
+    int? result = (int?)TempData["result"];
+}
+
+@if (result == 1)
+{
+				<p class="custom-font">데이터가 삭제에 성공하였습니다</p>
+				<p><a href="@Url.Action("Index", "NewsCRUD")"><p class="btn btn-primary custom-font3">이전으로</a></p>
+                
+}
+else
+{
+				<p class="custom-font">데이터 삭제에 실패하였습니다.</p>
+				<p><a href="@Url.Action("Index", "NewsCRUD")"><p class="btn btn-primary custom-font3">이전으로</a></p>
+}

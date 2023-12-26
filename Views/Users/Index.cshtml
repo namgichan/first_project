@@ -1,0 +1,37 @@
+﻿@model IEnumerable<Project.Models.Users>
+@{
+    ViewBag.Title = "Read";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>회원 목록</h2>
+
+<table class="table">
+    <tr>
+        <th>아이디</th>
+        <th>비밀번호</th>
+        <th>이름</th>
+        <th>전화번호</th>
+        <th>이메일</th>
+        <th>주소</th>
+        <th>성별</th>
+        <th></th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <th> @Html.DisplayFor(Modelitem => item.userId)    </th>
+            <th> @Html.DisplayFor(Modelitem => item.pwd)  </th>
+            <th> @Html.DisplayFor(Modelitem => item.userName)  </th>
+            <th> @Html.DisplayFor(Modelitem => item.userPhone)  </th>
+            <th> @Html.DisplayFor(Modelitem => item.userEmail)  </th>
+            <th> @Html.DisplayFor(Modelitem => item.userAddr)  </th>
+            <th> @Html.DisplayFor(Modelitem => item.gender)  </th>
+            <td>
+                @Html.ActionLink("수정", "Update", new { id = item.userId }) |
+                @Html.ActionLink("상세", "Detail", new { id = item.userId }) |
+                @Html.ActionLink("삭제", "Delete", new { id = item.userId })
+            </td>
+        </tr>
+    }
+</table>
